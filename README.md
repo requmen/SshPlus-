@@ -12,6 +12,7 @@ apt-get upgrade -y
 ```bash
 wget https://raw.githubusercontent.com/requmen/SSHPLUS-MANAGER-FREE/master/Plus && chmod +x Plus* && ./Plus*
 
+```bash
 root@localhost :~ menuV3
 root@localhost :~ menuV2
 root@localhost :~ menuV1
